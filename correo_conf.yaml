@@ -1,0 +1,10 @@
+ip: 127.0.0.1
+mensaje: 'mensaje.txt'
+adjuntos: 
+ - 'mensaje.txt'
+titulo: 'PRUEBA 17'
+origen: 'czalapa@cinepolis.com'
+destino:
+ - someemail@qqq.com
+ 
+
