@@ -102,7 +102,7 @@ if __name__== '__main__':
         correo_.enviar_correo()
         
         """
-        path_='C:/SSIS/VENTAS_TAQ_APP/CONFIG/correo_conf.yaml'
+        path_='correo_conf.yaml'
         correo_=correo(path_)
         correo_.get_variables()
         correo_.enviar_correo()
